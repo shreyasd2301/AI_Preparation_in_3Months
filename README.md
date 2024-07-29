@@ -1,8 +1,7 @@
 # AI_Preparation_in_3Months
 Prepare End to End AI &amp; be able to apply for Jobs 
 
-Syllabus for ML:
-
+Syllabus for ML: 
 Linear Regression
 Logistic Regression
 Ridge and Lasso Regression
@@ -11,6 +10,7 @@ Decision Tree
 Random Forest
 Support Vector Machine
 KMeans Clustering
+
 Other Topics:
 
 Gradient Descent
