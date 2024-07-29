@@ -3,7 +3,7 @@ Prepare End to End AI &amp; be able to apply for Jobs
 
 Week-1 Tasks:
 
-1. Build your LinkedIn profile using Career Flow extension [Link](https://chromewebstore.google.com/detail/careerflow-ai-linkedin-op/iadokddofjgcgjpjlfhngclhpmaelnli?hl=en) & Share your Profiles here  - [Sheet Link] (https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing) 
+1. Build your LinkedIn profile using Career Flow extension [Link](https://chromewebstore.google.com/detail/careerflow-ai-linkedin-op/iadokddofjgcgjpjlfhngclhpmaelnli?hl=en) & Share your Profiles here  - [Sheet Link](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing) 
 
 2. Learn basics of Python
    - Input & Output
@@ -16,7 +16,7 @@ b. Count digits example -> x= 3459 , output= 4
 c. Check palindrome - > x= 989 , output = yes
 d. Factorial of a number -> x= 5! output = 120
 
-Submit your code in Github acc- And share your GitHub profiles here - [sheet link] (https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
+Submit your code in Github acc- And share your GitHub profiles here - [sheet link](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
 
 3. Basics of Machine Learning
 
