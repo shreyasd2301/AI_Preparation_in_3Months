@@ -20,7 +20,7 @@ Submit your code in Github acc- And share your GitHub profiles here - [sheet lin
 
 3. Basics of Machine Learning
 
-Simple overview of algorithms - [Link] (https://medium.com/@coderacheal/machine-learning-for-absolute-beginners-69ce9bb08b46)
+Simple overview of algorithms - [Link](https://medium.com/@coderacheal/machine-learning-for-absolute-beginners-69ce9bb08b46)
 
 Check this playlist which covers all algorithms -But cover Linear & Logistic regression - 1 to 9 videos - [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 
