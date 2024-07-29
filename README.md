@@ -1,11 +1,32 @@
 # AI_Preparation_in_3Months
 Prepare End to End AI &amp; be able to apply for Jobs 
 
+Syllabus for ML:
+
+Linear Regression
+Logistic Regression
+Ridge and Lasso Regression
+Naive Bayes
+Decision Tree
+Random Forest
+Support Vector Machine
+KMeans Clustering
+Other Topics:
+
+Gradient Descent
+Measuring Accuracy,Confusion Matrix (Precision & Recall)
+Bias-Variance Trade-off
+Applying Regularization
+Elastic Net Regression
+Predictive Analytics
+
 Week-1 Tasks:
 
-1. Build your LinkedIn profile using Career Flow extension [Link](https://chromewebstore.google.com/detail/careerflow-ai-linkedin-op/iadokddofjgcgjpjlfhngclhpmaelnli?hl=en) & Share your Profiles here  - [Sheet Link](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing) 
+1. Build your LinkedIn profile using Career Flow extension [Link](https://chromewebstore.google.com/detail/careerflow-ai-linkedin-op/iadokddofjgcgjpjlfhngclhpmaelnli?hl=en) & Share your Profiles here  - [Sheet Link](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
 
-2. Learn basics of Python
+Create a GitHub Profile to upload your documents
+
+3. Learn basics of Python
    - Input & Output
    - Operators
    - Conditional Statements & Loops
@@ -36,5 +57,12 @@ a. Build profile & share in sheet
 b. solve problems , upload them in github & share your profiles in sheet
 c. Maintain notes for linear & logistic regression, share in sheets
 
-
+In the coming days, you will be creating GitHub repositories for
+- ML Projects
+- DL projects
+- NLP projects
+- GenAI projects
+(End to End projects)
+- Notes
+  
 
