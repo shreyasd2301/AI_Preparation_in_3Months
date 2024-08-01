@@ -1,63 +1,55 @@
-# AI_Preparation_in_3Months
+# AI Preparation in 3 Months
 Prepare End to End AI &amp; be able to apply for Jobs 
 
-Syllabus for ML: 
-Linear Regression
-Logistic Regression
-Ridge and Lasso Regression
-Naive Bayes
-Decision Tree
-Random Forest
-Support Vector Machine
-KMeans Clustering
+## Syllabus for ML: 
+- Linear Regression
+- Logistic Regression
+- Ridge and Lasso Regression
+- Naive Bayes
+- Decision Tree
+- Random Forest
+- Support Vector Machine
+- KMeans Clustering
 
-Other Topics:
+## Other Topics:
 
-Gradient Descent
-Measuring Accuracy,Confusion Matrix (Precision & Recall)
-Bias-Variance Trade-off
-Applying Regularization
-Elastic Net Regression
-Predictive Analytics
+- Gradient Descent
+- Measuring Accuracy,Confusion Matrix (Precision & Recall)
+- Bias-Variance Trade-off
+- Applying Regularization
+- Elastic Net Regression
+- Predictive Analytics
 
-Week-1 Tasks:
+## Weeks
+- [Week-1](#week-1)
 
-1. Build your LinkedIn profile using Career Flow extension [Link](https://chromewebstore.google.com/detail/careerflow-ai-linkedin-op/iadokddofjgcgjpjlfhngclhpmaelnli?hl=en) & Share your Profiles here  - [Sheet Link](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
+  
+## Week-1
 
-Create a GitHub Profile to upload your documents
-
-3. Learn basics of Python
+### Syllabus 
+- #### Python Basics
    - Input & Output
    - Operators
    - Conditional Statements & Loops
+- #### Basics of Machine Learning
+   - [Simple overview of algorithms](https://medium.com/@coderacheal/machine-learning-for-absolute-beginners-69ce9bb08b46)
+   - [ML Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) (Learn Linear & Logistic regression - 1 to 9 videos)
+   - [reference playlist](https://www.youtube.com/playlist?list=PL_7lAqjuyAkkbINx4QmYcLs8W5_SC-zwa) (but mainly concentrate on above playlist)
 
-Solve these problems:
-a. Sum of Natural Numbers ( 0 to 10 )
-b. Count digits example -> x= 3459 , output= 4
-c. Check palindrome - > x= 989 , output = yes
-d. Factorial of a number -> x= 5! output = 120
+### Tasks 
 
-Submit your code in Github acc- And share your GitHub profiles here - [sheet link](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
-
-3. Basics of Machine Learning
-
-Simple overview of algorithms - [Link](https://medium.com/@coderacheal/machine-learning-for-absolute-beginners-69ce9bb08b46)
-
-Check this playlist which covers all algorithms -But cover Linear & Logistic regression - 1 to 9 videos - [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
-
-For doubts - check these resources (reference only - but main concentrate on above playlist)
-
-[reference](https://www.youtube.com/playlist?list=PL_7lAqjuyAkkbINx4QmYcLs8W5_SC-zwa)
+- Build your LinkedIn profile using [Career Flow extension](https://chromewebstore.google.com/detail/careerflow-ai-linkedin-op/iadokddofjgcgjpjlfhngclhpmaelnli?hl=en) &     Share your Profiles [here](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
+- Create a GitHub Profile
+- Solve these problems:
+   - Sum of Natural Numbers ( 0 to 10 )
+   - Count digits example -> x= 3459 , output= 4
+   - Check palindrome - > x= 989 , output = yes
+   - Factorial of a number -> x= 5! output = 120
+- Submit your code in Github acc- And share your GitHub profiles [here](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
+- Maintain detailed notes on Linear & Logistic regression algorithms in either Notion/Google documents and [share here](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
 
 
-Task - Maintain detailed notes on Linear & Logistic regression algorithms in either Notion/Google documents - share here- [sheet](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
-
-3 Tasks are:
-a. Build profile & share in sheet
-b. solve problems , upload them in github & share your profiles in sheet
-c. Maintain notes for linear & logistic regression, share in sheets
-
-In the coming days, you will be creating GitHub repositories for
+#### In the coming days, you will be creating GitHub repositories for
 - ML Projects
 - DL projects
 - NLP projects
