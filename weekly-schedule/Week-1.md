@@ -21,3 +21,8 @@
    - Factorial of a number -> x= 5! output = 120
 - Submit your code in Github acc- And share your GitHub profiles [here](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
 - Maintain detailed notes on Linear & Logistic regression algorithms in either Notion/Google documents and [share here](https://docs.google.com/spreadsheets/d/1_uTDy-6p9b86Ca5-IejLkdbc-R8q-71SY5x_rTME49A/edit?usp=sharing)
+
+
+[Home](https://github.com/JJayasri/AI_Preparation_in_3Months)
+
+[Weekly-schedule](../)
