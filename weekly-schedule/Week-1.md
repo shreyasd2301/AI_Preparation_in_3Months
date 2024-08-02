@@ -25,4 +25,4 @@
 
 [Home](https://github.com/JJayasri/AI_Preparation_in_3Months)
 
-[Weekly-schedule](../)
+[Weekly-schedule](weekly-schedule.md)
